@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TCSASystems.Blazor.EmployeeManagement.props" />
+</Project>

@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TCSASystems.Blazor.EmployeeManagement
+build_property.RootNamespace = TCSASystems.Blazor.EmployeeManagement
+build_property.ProjectDir = /Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Components/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9SZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Components/TableButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UYWJsZUJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Pages/AddEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Pages/EmployeeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Pages/EmployeesTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-96y24n9o06
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n6ninqkm1s
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/_IdentityLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX0lkZW50aXR5TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pallavi/Downloads/TCSASystems.Blazor.EmployeeManagement-6-Edit-Delete-Employee/TCSASystems.Blazor.EmployeeManagement/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
